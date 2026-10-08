@@ -1,0 +1,14 @@
+hi, i am kyj!
+
+
+# 브랜치 생성
+git swich -c kyj/home
+
+# 파일 추가 후 스테이징
+git add .
+
+# 파일 커밋
+git commit -m "kyj/home"
+
+# 해당 브랜치로 푸시
+git push -u origin kim/home
